@@ -1,0 +1,21 @@
+
+
+nav {
+    max-width: 1000px;
+    height: 3rem;
+    background: #e9e5e5;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav img {
+    height: 50%;
+    margin: auto auto auto 1rem; 
+}
+
+nav a {
+    
+    color: #646363;
+    margin: 1rem;
+}
